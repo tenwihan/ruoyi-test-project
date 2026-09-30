@@ -48,7 +48,7 @@
 │   ├── 缺陷复现用例（9条）.xlsx     # 9 个 Bug 对应的可复现用例（含实际结果）
 │   ├── 缺陷详细报告.md            # 9 个完整缺陷单（含复现步骤与根因）
 │   ├── 若依管理系统测试报告.md     # 测试总结报告（含结果口径说明）
-│   └── screenshots/             # 效果截图（禅道/自动化/缺陷复现）
+│   └── screenshots/             # 效果截图（禅道 / 自动化 / 缺陷复现 / 浏览器兼容）
 ├── postman/                     # 接口测试（33 条用例的 Collection，导入即用）
 └── ruoyi_auto/                  # UI 自动化（Selenium + pytest，Page Object 模式）
     ├── conftest.py              # fixture：driver 管理、登录态清理
